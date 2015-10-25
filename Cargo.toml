@@ -1,0 +1,15 @@
+[package]
+
+name = "toy-http"
+version = "0.0.1"
+authors = ["Chiu-Hsiang Hsu <wdv4758h@gmail.com>"]
+keywords = ["HTTP"]
+documentation = ""
+license = "GPLv3"
+readme = "README.rst"
+repository = ""
+
+
+[[bin]]
+
+name = "toy-http"
